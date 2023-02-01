@@ -33,6 +33,29 @@
 
 //-----------------------------------------------------------------------------------------------------------------------------
 
+//Check Same Case (8-Kyu)
+
+//char a = 'k';
+//char b = '6';
+
+//if (char.IsLetter(a) == false || char.IsLetter(b) == false)
+//{
+//    Console.WriteLine(-1); //for vs
+//    return -1; //for codewars
+//}
+//else if (char.IsUpper(a) == true && char.IsUpper(b) == true || char.IsLower(a) == true && char.IsLower(b) == true)
+//{
+//    Console.WriteLine(1); // for vs
+//    return 1; //for codewars
+//}
+//else
+//{
+//    Console.WriteLine(0); //for vs
+//    return 0; //for codewars
+//}
+
+//-----------------------------------------------------------------------------------------------------------------------------
+
 //Counting Sheep Problem (8-Kyu)
 
 //string result = "";

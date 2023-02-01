@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jack_\\OneDrive\\Desktop\\Repos\\CodeWars_Problems\\CodeWars_Problems\\CodeWars_Problems.csproj",
+      "projectUniqueName": "C:\\Users\\jack_\\OneDrive\\Desktop\\Repos\\CodeWars_Problems\\8-Kyu\\CodeWars_Problems\\CodeWars_Problems.csproj",
       "projectName": "CodeWars_Problems",
-      "projectPath": "C:\\Users\\jack_\\OneDrive\\Desktop\\Repos\\CodeWars_Problems\\CodeWars_Problems\\CodeWars_Problems.csproj",
+      "projectPath": "C:\\Users\\jack_\\OneDrive\\Desktop\\Repos\\CodeWars_Problems\\8-Kyu\\CodeWars_Problems\\CodeWars_Problems.csproj",
       "packagesPath": "C:\\Users\\jack_\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jack_\\OneDrive\\Desktop\\Repos\\CodeWars_Problems\\CodeWars_Problems\\obj\\",
+      "outputPath": "C:\\Users\\jack_\\OneDrive\\Desktop\\Repos\\CodeWars_Problems\\8-Kyu\\CodeWars_Problems\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jack_\\AppData\\Roaming\\NuGet\\NuGet.Config",
