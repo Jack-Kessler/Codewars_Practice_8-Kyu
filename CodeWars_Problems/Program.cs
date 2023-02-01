@@ -125,6 +125,31 @@
 
 //-----------------------------------------------------------------------------------------------------------------------------
 
+//Pillars (8-Kyu)
+
+//int numPill = 1;
+
+//int dist = 10; // distance between pillars in meters
+
+//int width = 10; // width of each pillar in centimeters
+
+//int distCentimeters = dist * 100;
+
+//if (numPill == 1)
+//{
+//    Console.WriteLine(0); // for vs
+//    return 0; //for codewars
+//}
+//else
+//{
+//    int totalDistance = ((numPill - 1) * distCentimeters) + ((numPill - 2) * width);
+//    Console.WriteLine(totalDistance); // for vs
+//    return totalDistance; // for codewars
+//}
+
+
+//-----------------------------------------------------------------------------------------------------------------------------
+
 //Total Amount of Points (8-Kyu)
 
 //Case 1
