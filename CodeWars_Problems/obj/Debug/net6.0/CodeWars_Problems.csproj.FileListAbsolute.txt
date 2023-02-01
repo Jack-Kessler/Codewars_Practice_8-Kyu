@@ -1,0 +1,15 @@
+C:\Users\jack_\OneDrive\Desktop\Repos\CodeWars_Problems\CodeWars_Problems\obj\Debug\net6.0\CodeWars_Problems.csproj.AssemblyReference.cache
+C:\Users\jack_\OneDrive\Desktop\Repos\CodeWars_Problems\CodeWars_Problems\obj\Debug\net6.0\CodeWars_Problems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jack_\OneDrive\Desktop\Repos\CodeWars_Problems\CodeWars_Problems\obj\Debug\net6.0\CodeWars_Problems.AssemblyInfoInputs.cache
+C:\Users\jack_\OneDrive\Desktop\Repos\CodeWars_Problems\CodeWars_Problems\obj\Debug\net6.0\CodeWars_Problems.AssemblyInfo.cs
+C:\Users\jack_\OneDrive\Desktop\Repos\CodeWars_Problems\CodeWars_Problems\obj\Debug\net6.0\CodeWars_Problems.csproj.CoreCompileInputs.cache
+C:\Users\jack_\OneDrive\Desktop\Repos\CodeWars_Problems\CodeWars_Problems\bin\Debug\net6.0\CodeWars_Problems.exe
+C:\Users\jack_\OneDrive\Desktop\Repos\CodeWars_Problems\CodeWars_Problems\bin\Debug\net6.0\CodeWars_Problems.deps.json
+C:\Users\jack_\OneDrive\Desktop\Repos\CodeWars_Problems\CodeWars_Problems\bin\Debug\net6.0\CodeWars_Problems.runtimeconfig.json
+C:\Users\jack_\OneDrive\Desktop\Repos\CodeWars_Problems\CodeWars_Problems\bin\Debug\net6.0\CodeWars_Problems.dll
+C:\Users\jack_\OneDrive\Desktop\Repos\CodeWars_Problems\CodeWars_Problems\bin\Debug\net6.0\CodeWars_Problems.pdb
+C:\Users\jack_\OneDrive\Desktop\Repos\CodeWars_Problems\CodeWars_Problems\obj\Debug\net6.0\CodeWars_Problems.dll
+C:\Users\jack_\OneDrive\Desktop\Repos\CodeWars_Problems\CodeWars_Problems\obj\Debug\net6.0\refint\CodeWars_Problems.dll
+C:\Users\jack_\OneDrive\Desktop\Repos\CodeWars_Problems\CodeWars_Problems\obj\Debug\net6.0\CodeWars_Problems.pdb
+C:\Users\jack_\OneDrive\Desktop\Repos\CodeWars_Problems\CodeWars_Problems\obj\Debug\net6.0\CodeWars_Problems.genruntimeconfig.cache
+C:\Users\jack_\OneDrive\Desktop\Repos\CodeWars_Problems\CodeWars_Problems\obj\Debug\net6.0\ref\CodeWars_Problems.dll
